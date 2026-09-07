@@ -1,0 +1,31 @@
+// Extends login styles — shared auth layout
+@use '../login/login.scss' as *;
+
+.feature-list {
+  margin-top: 40px;
+  z-index: 1;
+
+  .feature-item {
+    color: rgba(255,255,255,0.7);
+    font-size: 14px;
+    padding: 8px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+  }
+}
+
+.form-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+
+.success-msg {
+  background: rgba(0, 200, 100, 0.12);
+  border: 1px solid rgba(0, 200, 100, 0.3);
+  border-radius: 8px;
+  padding: 12px 16px;
+  margin-bottom: 16px;
+  color: #6effc0;
+  font-size: 14px;
+  text-align: center;
+}
