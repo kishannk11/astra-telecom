@@ -1,0 +1,13 @@
+{
+  "name": "macc-astra-demo-mcp-server",
+  "version": "1.0.0",
+  "description": "Astra MCP server for MACC-Astra-Demo specs",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1"
+  }
+}

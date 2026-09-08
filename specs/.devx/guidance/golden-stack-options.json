@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "projectName": "MACC-Astra-Demo",
+  "generatedAt": "2026-09-08T12:26:06.274Z",
+  "source": "golden-repo-guidance",
+  "options": {
+    "ui": [],
+    "backend": [],
+    "database": [],
+    "ai": [],
+    "uiCustom": [],
+    "backendCustom": [],
+    "databaseCustom": []
+  }
+}

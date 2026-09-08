@@ -1,0 +1,150 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-09-08T12:26:06.306Z",
+  "enableTdd": false,
+  "totalFeatures": 1,
+  "features": [
+    {
+      "id": 77700,
+      "taskId": "FEATURE-77700",
+      "title": "MACC Gentue Unified Customer and Account Platform Modernization",
+      "slug": "unified-customer-account-platform",
+      "state": "planned",
+      "status": "not-started",
+      "openQuestions": [
+        {
+          "id": "oq-1",
+          "text": "The source does not define exact screen layouts, component structure, wording for messages, or visual treatment beyond distinct/clear/highlighted states.",
+          "blocking": false
+        },
+        {
+          "id": "oq-2",
+          "text": "The source does not define whether multiple-search-match results are a grid, list, or other control.",
+          "blocking": false
+        },
+        {
+          "id": "oq-3",
+          "text": "The source does not define whether Mimir source references are inline citations, links, or another UI pattern.",
+          "blocking": false
+        }
+      ],
+      "storyCount": 18,
+      "totalStoryPoints": 61,
+      "files": {
+        "specs": "specs/unified-customer-account-platform/specs.md",
+        "requirements": "specs/unified-customer-account-platform/requirements.md",
+        "prompt": "specs/unified-customer-account-platform/prompt.md"
+      },
+      "userStories": [
+        {
+          "id": 77703,
+          "title": "Unified Customer and Account Workspace",
+          "state": "New",
+          "storyPoints": null
+        },
+        {
+          "id": 77743,
+          "title": "As an Account Management Specialist, I want to view premises and assigned services in the modern platform so that I can manage account infrastructure without the legacy system",
+          "state": "New",
+          "storyPoints": 3
+        },
+        {
+          "id": 77752,
+          "title": "As an Account Management Specialist, I want to review equipment and network information so that I can support account management activities from one platform",
+          "state": "New",
+          "storyPoints": 3
+        },
+        {
+          "id": 77761,
+          "title": "As an Internal User, I want to view bundles and service-order inventory in the unified platform so that I can complete account-related work with consistent data",
+          "state": "New",
+          "storyPoints": 2
+        },
+        {
+          "id": 77769,
+          "title": "As a Service Agent, I want to ask Mimir questions about customer and account data so that I can serve customers faster through natural language interaction",
+          "state": "New",
+          "storyPoints": 5
+        },
+        {
+          "id": 77778,
+          "title": "As a Service Agent, I want Mimir to summarize notes and trouble tickets so that I can understand account history more quickly",
+          "state": "New",
+          "storyPoints": 3
+        },
+        {
+          "id": 77787,
+          "title": "As an Internal User, I want Mimir to generate charts and insights from business data so that I can interpret operational information more efficiently",
+          "state": "New",
+          "storyPoints": 5
+        },
+        {
+          "id": 77796,
+          "title": "As a System Administrator, I want users to authenticate through WorkOS SSO so that only authorized personnel can access protected CM, AM, and Mimir functions",
+          "state": "New",
+          "storyPoints": 5
+        },
+        {
+          "id": 77805,
+          "title": "As a Compliance Administrator, I want user activity and data changes audited so that customer, account, and AI-assisted actions remain traceable",
+          "state": "New",
+          "storyPoints": 3
+        },
+        {
+          "id": 77813,
+          "title": "As a Release Manager, I want automated CI/CD pipelines with controlled promotion gates so that the platform can be continuously delivered with lower production risk",
+          "state": "New",
+          "storyPoints": 5
+        },
+        {
+          "id": 77839,
+          "title": "As a Service Agent, I want to use Mimir conversational assistance during customer servicing so that I can resolve questions faster",
+          "state": "New",
+          "storyPoints": 5
+        },
+        {
+          "id": 77847,
+          "title": "As a Compliance Officer, I want auditable history for customer, account, interaction, and AI-assisted activities so that the platform supports retention and compliance review",
+          "state": "New",
+          "storyPoints": 3
+        },
+        {
+          "id": 77856,
+          "title": "As a Release Manager, I want controlled promotion and rollback support across environments so that production deployments can be managed with lower service disruption risk",
+          "state": "New",
+          "storyPoints": 3
+        },
+        {
+          "id": 77718,
+          "title": "As a Service Agent, I want to search and open a unified customer workspace so that I can manage the complete customer lifecycle from one screen",
+          "state": "New",
+          "storyPoints": 3
+        },
+        {
+          "id": 77726,
+          "title": "As a Service Agent, I want to view customer addresses, notes, and alerts together so that I can handle interactions with full context",
+          "state": "New",
+          "storyPoints": 3
+        },
+        {
+          "id": 77735,
+          "title": "As an Internal User, I want to navigate between customer and account views without leaving the web platform so that I can complete related work efficiently",
+          "state": "New",
+          "storyPoints": 2
+        },
+        {
+          "id": 77822,
+          "title": "As a Customer Service Manager, I want modern web navigation across customer servicing capabilities so that teams can work more efficiently than in the legacy desktop software",
+          "state": "New",
+          "storyPoints": 3
+        },
+        {
+          "id": 77830,
+          "title": "As an Internal User, I want unified visibility into customer and infrastructure-related account data so that I can resolve service inquiries from one platform",
+          "state": "New",
+          "storyPoints": 5
+        }
+      ]
+    }
+  ]
+}

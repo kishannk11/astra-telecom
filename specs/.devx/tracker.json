@@ -1,0 +1,13 @@
+{
+  "trackerVersion": 1,
+  "updatedAt": "2026-09-08T12:26:06.306Z",
+  "tasks": {
+    "FEATURE-77700": {
+      "status": "PENDING",
+      "title": "MACC Gentue Unified Customer and Account Platform Modernization",
+      "featureId": 77700,
+      "slug": "unified-customer-account-platform",
+      "updatedAt": "2026-09-08T12:26:06.306Z"
+    }
+  }
+}
